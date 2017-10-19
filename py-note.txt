@@ -1,0 +1,49 @@
+This one might be also useful.
+https://acaird.github.io/2016/02/07/simple-python-gui 
+
+Thanks,
+Herb Chung
+
+From: Herb Chung 
+Sent: Thursday, October 19, 2017 3:30 PM
+To: Li Allen Huang (Lang Chao Shi Ke (Shan Dong) X) <v-liahua@microsoft.com>
+Cc: Mengbo Shen (Inspur) <v-menshe@microsoft.com>
+Subject: RE: Python Developing Concerning Materials
+
+Hi Li,
+
+Also need your help to investigate this:
+https://github.com/chriskiehl/Gooey 
+
+or other method can display GUI in command line.
+
+Thanks,
+Herb Chung
+
+From: Herb Chung 
+Sent: Thursday, October 19, 2017 11:05 AM
+To: Li Allen Huang (Lang Chao Shi Ke (Shan Dong) X) <v-liahua@microsoft.com>
+Subject: Python Developing Concerning Materials
+
+Extension Documentation: https://github.com/Azure/azure-cli/tree/master/doc/extensions
+ 
+Public repo: https://github.com/Azure/azure-cli-extensions
+Private repo: https://github.com/Azure/azure-cli-extensions-pr
+
+Python SDK:
+https://github.com/Azure/azure-sdk-for-python 
+
+Azure CLI: 
+https://github.com/Azure/azure-cli 
+
+WebApp migration script in attachment.
+
+Thanks,
+Herb Chung 
+China Customer Advisory Team
+Microsoft Asia-Pacific Research & Development Group
+Mail: herbc@microsoft.com
+ 
+ 
+
+
